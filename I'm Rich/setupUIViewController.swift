@@ -17,6 +17,7 @@ final class setupUIViewController: UIView {
         setupUI(labelText: labelText, font: font, imageName: imageName)
     }
     
+    
     required init?(coder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
